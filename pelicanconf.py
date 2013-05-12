@@ -29,3 +29,12 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# directory for the theme to be used
+#THEME = 'theme'
+
+# directories to be copied into output/static/
+STATIC_PATHS = ['img', 'css', 'js']
+
+# useful for debugging purposes
+DELETE_OUTPUT_DIRECTORY = True

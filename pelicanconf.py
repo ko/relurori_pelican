@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Ken Ko'
-SITENAME = u'Ken Ko, trials and thoughts'
+SITENAME = u'Ken Ko, notes for'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
@@ -38,3 +38,4 @@ STATIC_PATHS = ['img', 'css', 'js']
 
 # useful for debugging purposes
 DELETE_OUTPUT_DIRECTORY = True
+

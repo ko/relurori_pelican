@@ -9,7 +9,7 @@ be a container for thoughts.
 
 Some background. This topic came up while working on a simple 2d 
 game engine. Laying out the skeleton and working on the board
-implementation and technical design, it occured to me that it would
+implementation and technical design, it occurred to me that it would
 be _cool_ to have pathfinding. Necessary? Not really. But cool, yes.
 
 So I went ahead and thought up the most naive algorithm I could and

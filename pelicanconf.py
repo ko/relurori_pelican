@@ -3,10 +3,10 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Ken Ko'
-SITENAME = u'Ken Ko, notes for'
+SITENAME = u'notes for myself'
 SITEURL = ''
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Los Angeles'
 
 DEFAULT_LANG = u'en'
 
@@ -30,12 +30,4 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-# directory for the theme to be used
-#THEME = 'theme'
-
-# directories to be copied into output/static/
-STATIC_PATHS = ['img', 'css', 'js']
-
-# useful for debugging purposes
-DELETE_OUTPUT_DIRECTORY = True
-
+THEME = "./pelican-themes/cebong"

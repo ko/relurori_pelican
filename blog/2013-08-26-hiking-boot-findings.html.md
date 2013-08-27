@@ -2,6 +2,7 @@ Title: Hiking Boots
 Author: Ken Ko
 Date: 2013-08-26
 Tags: thoughts, hiking boots, backpacking
+Category: blog
 
 I need a place to write down my findings about hiking boots. As such, this
 is effectively a letter to myself.

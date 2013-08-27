@@ -2,6 +2,7 @@ Title: Learn or Refine?
 Author: Ken Ko
 Date: 2012-10-07
 Tags: life, work
+Category: blog
 
 Let's say we spend 30 minutes every weeknight learning something new.
 Now, keep in mind that this is _actual_ learning. Not including 

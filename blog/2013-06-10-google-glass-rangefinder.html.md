@@ -2,6 +2,7 @@ Title: Google Glass as Rangefinder
 Author: Ken Ko
 Date: 2013-06-10
 Tags: photography, google glass, thoughts
+Category: blog
 
 An idea crossed my mind while driving. Twice. Oops.
 That would mean I forgot to write it down the first time around.

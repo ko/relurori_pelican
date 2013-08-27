@@ -2,6 +2,7 @@ Title: Reinventing the Wheel
 Author: Ken Ko
 Date: 2013-05-22
 Tags: life, work
+Category: blog
 
 It's not uncommon to hear someone with the question:
 

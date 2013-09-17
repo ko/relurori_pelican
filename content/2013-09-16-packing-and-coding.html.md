@@ -5,8 +5,8 @@ Tags: thoughts, backpacking, coding
 Category: blog
 
 I've been doing some day trips, lately, to some of the more remote 
-regions around the San Francisco Bay Area. While packing for a 
-[a trip to Mt. Saint Helena](http://kenkophoto.com/mount-st-helenas-north-peak.html) 
+regions around the San Francisco Bay Area. While packing for 
+[a trip to Mt. Saint Helena](http://kenkophoto.com/mount-st-helenas-north-peak.html), 
 I've realized that the majority of my contents are safety related:
 headlamp, minor first aid equipment, knife, paracord, etc. 
 

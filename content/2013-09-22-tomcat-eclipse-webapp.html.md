@@ -2,7 +2,7 @@ Title: Tomcat, Eclipse, Webapp
 Author: Ken Ko
 Date: 2013-09-22
 Tags: coding, tomcat, eclipse, webapp
-Category: blog
+Category: tutorials
 
 This is a compilation of issues needing to be dealt with.
 That's the only sense of coherency for this post. For readers

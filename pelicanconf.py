@@ -34,3 +34,6 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = "./pelican-themes/sundown"
+THEME = "./pelican-themes/bootlex"
+THEME = "./pelican-themes/built-texts"
+THEME = "./pelican-themes/tuxlite_zf"

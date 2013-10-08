@@ -2,7 +2,7 @@ Title: Android Game Collision Detection
 Author: Ken Ko
 Date: 2013-10-06
 Tags: coding, android, game
-Category: blog
+Category: tutorials
 
 Basic collision detection for [breakout island](https://github.com/ko/breakout-island).
 Sample code for the second revision of collision detection

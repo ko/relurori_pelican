@@ -1,7 +1,7 @@
-Title: Android Game GC
+Title: Breakout Island GC
 Author: Ken Ko
 Date: 2013-10-19
-Tags: coding, android, game
+Tags: coding, android, game, breakout island
 Category: tutorials
 
 Moving my testing from a Galaxy Nexus with 4.3 to an LG G2 with 4.2.2, I've

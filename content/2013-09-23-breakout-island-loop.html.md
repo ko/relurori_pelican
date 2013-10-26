@@ -1,7 +1,7 @@
-Title: Android Game Loop
+Title: Breakout Island Game Loop
 Author: Ken Ko
 Date: 2013-09-23
-Tags: coding, android, game
+Tags: coding, android, game, breakout island
 Category: tutorials
 
 The Android/Eclipse code can be found [here](https://github.com/ko/breakout-island/tree/v0.1).

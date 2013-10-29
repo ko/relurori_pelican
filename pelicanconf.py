@@ -6,7 +6,7 @@ AUTHOR = u'Ken Ko'
 SITENAME = u'notes for myself'
 SITEURL = 'http://relurori.com'
 
-TIMEZONE = 'America/Los Angeles'
+TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
 
